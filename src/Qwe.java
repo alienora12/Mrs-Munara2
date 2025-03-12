@@ -16,6 +16,8 @@ public class Qwe {
             result.add(list1.get(i++));
         }
 
+
+        
         while (j < list2.size()) {
             result.add(list2.get(j++));
         }
